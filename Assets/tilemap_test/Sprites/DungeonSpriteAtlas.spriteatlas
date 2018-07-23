@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: DungeonSpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 512
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 512
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 405fc51df6536d34191453d912ca3030, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300048, guid: 405fc51df6536d34191453d912ca3030, type: 3}
+  - {fileID: 21300046, guid: 405fc51df6536d34191453d912ca3030, type: 3}
+  - {fileID: 21300032, guid: 405fc51df6536d34191453d912ca3030, type: 3}
+  - {fileID: 21300030, guid: 405fc51df6536d34191453d912ca3030, type: 3}
+  - {fileID: 21300036, guid: 405fc51df6536d34191453d912ca3030, type: 3}
+  - {fileID: 21300034, guid: 405fc51df6536d34191453d912ca3030, type: 3}
+  - {fileID: 21300040, guid: 405fc51df6536d34191453d912ca3030, type: 3}
+  - {fileID: 21300038, guid: 405fc51df6536d34191453d912ca3030, type: 3}
+  - {fileID: 21300044, guid: 405fc51df6536d34191453d912ca3030, type: 3}
+  - {fileID: 21300042, guid: 405fc51df6536d34191453d912ca3030, type: 3}
+  - {fileID: 21300050, guid: 405fc51df6536d34191453d912ca3030, type: 3}
+  - {fileID: 21300052, guid: 405fc51df6536d34191453d912ca3030, type: 3}
+  - {fileID: 21300054, guid: 405fc51df6536d34191453d912ca3030, type: 3}
+  - {fileID: 21300056, guid: 405fc51df6536d34191453d912ca3030, type: 3}
+  - {fileID: 21300058, guid: 405fc51df6536d34191453d912ca3030, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - TileSheet_9
+  - TileSheet_8
+  - TileSheet_1
+  - TileSheet_0
+  - TileSheet_3
+  - TileSheet_2
+  - TileSheet_5
+  - TileSheet_4
+  - TileSheet_7
+  - TileSheet_6
+  - TileSheet_10
+  - TileSheet_11
+  - TileSheet_12
+  - TileSheet_13
+  - TileSheet_14
+  m_Tag: DungeonSpriteAtlas
+  m_IsVariant: 0

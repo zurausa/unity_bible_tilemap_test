@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/terrain_tile_playground.unity
+  isLoaded: 1
+  isActive: 1
